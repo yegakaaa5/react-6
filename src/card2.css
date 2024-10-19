@@ -1,0 +1,16 @@
+div.card-body{
+    width: 350px;
+    height: 550px;
+    border: black 1px solid;
+    border-radius: 8px;
+    margin: 20px auto;
+    font-family: estedad;
+    font-size: 16px;
+}
+div.card-body>button{
+   border: ipx black solid;
+   border-radius: 8px;
+   margin-top: 5px;
+   padding: 6px;
+   
+}

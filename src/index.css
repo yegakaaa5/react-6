@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: estedad;
+  src: url(./Estedad-v5.0-Fontjo.com/Estedad[wght\,kshd].ttf);
+}
